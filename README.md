@@ -1,4 +1,4 @@
-### Hey there stranger! I'am Jack.👋
+### Hey there stranger! I'm Jack.👋
 
 I'm a student studying Information Technology at TAFE Queensland. Currently, I am learning about XML, Lua, and data protection. Additionally, I am working on modifications for games like Barotrauma and Minecraft.
 
