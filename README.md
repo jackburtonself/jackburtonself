@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hey there stranger! I am Jack.👋
+
+I'm a student studying Information Technology at TAFE Queensland. Currently, I am learning about XML, Lua, and data protection. Additionally, I am working on modifications for games like Barotrauma and Minecraft.
+
+
+
 
 <!--
 **jackburtonself/jackburtonself** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
